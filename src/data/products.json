@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "title": "Leche corporal hidratante",
+    "description": "Leche corporal hidratante con ingredientes naturales. Deja tu piel suave y nutrida durante todo el día.",
+    "code": "P001",
+    "price": 12000,
+    "status": true,
+    "stock": 50,
+    "category": "Cuerpo",
+    "thumbnails": ["/body-milk.jpg"]
+  },
+  {
+    "id": "2",
+    "title": "Acondicionador capilar",
+    "description": "Acondicionador hidratante que suaviza y desenreda tu cabello al instante. Ideal para todo tipo de cabello.",
+    "code": "P002",
+    "price": 7200,
+    "status": true,
+    "stock": 30,
+    "category": "Cabello",
+    "thumbnails": ["/conditioner-green.jpg"]
+  },
+  {
+    "id": "3",
+    "title": "Jabón en crema",
+    "description": "Jabón en crema suave con ingredientes naturales que limpia sin resecar, dejando una sensación fresca y cómoda.",
+    "code": "P003",
+    "price": 3800,
+    "status": true,
+    "stock": 20,
+    "category": "Cuerpo",
+    "thumbnails": ["/cream-soap.jpg"]
+  },
+  {
+    "id": "4",
+    "title": "Crema para peinar rizos",
+    "description": "Define y nutre tus rizos con esta crema enriquecida con ingredientes naturales. Hidratación y definición sin frizz.",
+    "code": "P004",
+    "price": 5750,
+    "status": true,
+    "stock": 25,
+    "category": "Cabello",
+    "thumbnails": ["/curl-cream.jpg"]
+  },
+  {
+    "id": "5",
+    "title": "Serum contorno de ojos",
+    "description": "Serum para el contorno de ojos con ingredientes naturales que reduce ojeras e hinchazón, dejando tu mirada más fresca y luminosa.",
+    "code": "P005",
+    "price": 19320,
+    "status": true,
+    "stock": 40,
+    "category": "Rostro",
+    "thumbnails": ["/eye-conteour-serum.jpg"]
+  },
+  {
+    "id": "6",
+    "title": "Bálsamo corporal",
+    "description": "Bálsamo corporal nutritivo con ingredientes naturales que hidrata intensamente y suaviza la piel desde la primera aplicación.",
+    "code": "P006",
+    "price": 9690,
+    "status": true,
+    "stock": 15,
+    "category": "Cuerpo",
+    "thumbnails": ["/forest-body-balm.jpg"]
+  },
+  {
+    "id": "7",
+    "title": "Mascarilla capilar",
+    "description": "Mascarilla reparadora con ingredientes naturales que nutre en profundidad y repara el cabello dañado dejándolo suave y brillante.",
+    "code": "P007",
+    "price": 6590,
+    "status": true,
+    "stock": 35,
+    "category": "Cabello",
+    "thumbnails": ["/hair-mask.jpg"]
+  },
+  {
+    "id": "8",
+    "title": "Loción de manos",
+    "description": "Loción humectante con ingredientes naturales que protege y suaviza tus manos, dejándolas hidratadas durante horas.",
+    "code": "P008",
+    "price": 8250,
+    "status": true,
+    "stock": 10,
+    "category": "Ofertas",
+    "thumbnails": ["/hand-lotion.jpg"]
+  },
+  {
+    "id": "9",
+    "title": "Shampoo hidratante",
+    "description": "Shampoo hidratante con ingredientes naturales que limpia suavemente y aporta nutrición, dejando tu cabello sedoso y brillante.",
+    "code": "P009",
+    "price": 4500,
+    "status": true,
+    "stock": 25,
+    "category": "Cabello",
+    "thumbnails": ["/hydrating-shampoo.jpg"]
+  },
+  {
+    "id": "10",
+    "title": "Jabón de manos lavanda",
+    "description": "Jabón líquido con esencia de lavanda que limpia y refresca tus manos, dejándolas con un aroma relajante.",
+    "code": "P010",
+    "price": 11200,
+    "status": true,
+    "stock": 20,
+    "category": "Cuerpo",
+    "thumbnails": ["/lavender-hand-wash.jpg"]
+  },
+  {
+    "id": "11",
+    "title": "Exfoliante labial",
+    "description": "Exfoliante labial con ingredientes naturales que elimina células muertas y deja tus labios suaves y renovados.",
+    "code": "P011",
+    "price": 15500,
+    "status": true,
+    "stock": 30,
+    "category": "Ofertas",
+    "thumbnails": ["/lip-scrub.jpg"]
+  },
+  {
+    "id": "12",
+    "title": "Serum niacinamida",
+    "description": "Serum con niacinamida e ingredientes naturales que reduce la apariencia de poros y mejora la textura de la piel.",
+    "code": "P012",
+    "price": 10000,
+    "status": true,
+    "stock": 18,
+    "category": "Ofertas",
+    "thumbnails": ["/niacinamide-serum.jpg"]
+  },
+  {
+    "id": "13",
+    "title": "Serum de noche",
+    "description": "Serum de noche con ingredientes naturales que revitaliza y repara la piel mientras duermes, dejándola suave y luminosa al despertar.",
+    "code": "P013",
+    "price": 14500,
+    "status": true,
+    "stock": 20,
+    "category": "Rostro",
+    "thumbnails": ["/night-serum.jpg"]
+  },
+  {
+    "id": "14",
+    "title": "Aceite perfumado",
+    "description": "Aceite perfumado con esencias naturales que aporta un aroma duradero y sofisticado, ideal para usar durante el día o la noche.",
+    "code": "P014",
+    "price": 12500,
+    "status": true,
+    "stock": 25,
+    "category": "Ofertas",
+    "thumbnails": ["/perfume-oil.jpg"]
+  },
+  {
+    "id": "15",
+    "title": "Pre shampoo",
+    "description": "Tratamiento pre-shampoo con ingredientes naturales que protege, hidrata y prepara tu cabello para un lavado más efectivo y menos agresivo.",
+    "code": "P015",
+    "price": 8900,
+    "status": true,
+    "stock": 30,
+    "category": "Cabello",
+    "thumbnails": ["/pre-shampoo.jpg"]
+  },
+  {
+    "id": "16",
+    "title": "Agua de rosas",
+    "description": "Agua de rosas pura con propiedades calmantes e hidratantes. Refresca y equilibra la piel, ideal para usar como tónico facial.",
+    "code": "P016",
+    "price": 7500,
+    "status": true,
+    "stock": 40,
+    "category": "Rostro",
+    "thumbnails": ["/rose-water.jpg"]
+  },
+  {
+    "id": "17",
+    "title": "Aceite de rosa mosqueta",
+    "description": "Aceite de rosa mosqueta 100% natural, rico en vitaminas y antioxidantes. Ayuda a regenerar la piel, atenuar cicatrices y mejorar la elasticidad.",
+    "code": "P017",
+    "price": 13500,
+    "status": true,
+    "stock": 18,
+    "category": "Ofertas",
+    "thumbnails": ["/rosehip-oil.jpg"]
+  },
+  {
+    "id": "18",
+    "title": "Serum con vitamina C",
+    "description": "Serum con vitamina C pura que ilumina la piel, unifica el tono y protege contra los radicales libres para un rostro más radiante y saludable.",
+    "code": "P018",
+    "price": 15800,
+    "status": true,
+    "stock": 22,
+    "category": "Rostro",
+    "thumbnails": ["/vitaminc-serum.jpg"]
+  }
+]
